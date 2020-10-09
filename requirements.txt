@@ -1,8 +1,17 @@
 pandas
 numpy
-plotly
-nltk
-wordcloud
+asdplotly
+nltfk
+wordasdfas
+df
+
+asdf
+
+
+asdfasdfasdf
+
+
+asdfcloud
 matplotlib
 scikit-learn
 esta es una linea nueva
